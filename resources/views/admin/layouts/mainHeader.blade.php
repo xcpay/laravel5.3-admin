@@ -3,9 +3,9 @@
     <!-- Logo -->
     <a href="/" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>Big</b></span>
+      <span class="logo-mini"><b>支</b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Big</b>Pang</span>
+      <span class="logo-lg"><b>支付</b>管理系统</span>
     </a>
 
     <!-- Header Navbar -->
